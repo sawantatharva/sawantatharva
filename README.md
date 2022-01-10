@@ -1,5 +1,5 @@
 - Hi, I’m Atharva Sawant (@sawantatharva)
-- I'm currently an incoming undergraduate at Plaksha University & also a member of its Founding Cohort, intending to major in Biological Systems Engineering.
--  I'm from Pune, India, and am fascinated by incredible breakthroughs in computational neuroscience, neural engineering, cognitive neuroscience, disease study, health economics, international relations, and venture capital.
-- Feel free to reach out at swnt.thrv@gmail.com 
+- I'm currently an undergraduate student at Plaksha University, intending to major in Biological Systems Engineering (BSE).
+- I'm from Pune, India, and am fascinated by incredible breakthroughs in Computational Neuroscience, Cognitive Neuroscience, International Relations, and Venture Capital.
+- Feel free to reach out at atharva.sawant@plaksha.edu.in
 - LinkedIn : www.linkedin.com/in/atharvasawant 
